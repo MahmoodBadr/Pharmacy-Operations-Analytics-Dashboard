@@ -1,0 +1,201 @@
+drug_name,SKU,opening_stock,stock_added,stock_removed,reorder_point,supplier,cost_per_unit
+Acetaminophen,SKU_1,360,289,83,25,SupplierC,12.38
+Ibuprofen,SKU_2,299,170,256,48,SupplierB,22.76
+Amoxicillin,SKU_3,291,211,192,21,SupplierA,31.41
+Ciprofloxacin,SKU_4,464,188,138,83,SupplierB,45.84
+Atorvastatin,SKU_5,176,264,220,55,SupplierB,1.78
+Simvastatin,SKU_6,199,213,188,39,SupplierC,11.42
+Metformin,SKU_7,380,88,196,74,SupplierB,12.49
+Lisinopril,SKU_8,481,129,73,56,SupplierA,17.0
+Losartan,SKU_9,385,22,197,71,SupplierC,14.81
+Amlodipine,SKU_10,433,178,259,88,SupplierC,29.92
+Hydrochlorothiazide,SKU_11,437,19,198,89,SupplierB,44.4
+Omeprazole,SKU_12,198,241,136,41,SupplierB,32.21
+Pantoprazole,SKU_13,218,239,174,34,SupplierA,12.83
+Ranitidine,SKU_14,94,28,132,66,SupplierB,43.32
+Sertraline,SKU_15,133,244,26,90,SupplierA,31.97
+Fluoxetine,SKU_16,57,119,256,88,SupplierB,11.73
+Citalopram,SKU_17,156,31,50,71,SupplierA,18.72
+Escitalopram,SKU_18,422,139,143,58,SupplierB,39.71
+Gabapentin,SKU_19,314,157,235,21,SupplierC,37.21
+Pregabalin,SKU_20,195,59,159,64,SupplierA,29.25
+Levothyroxine,SKU_21,80,138,270,43,SupplierC,8.09
+Insulin Glargine,SKU_22,293,211,153,80,SupplierC,40.36
+Metoprolol,SKU_23,84,138,36,84,SupplierC,16.07
+Propranolol,SKU_24,296,110,216,72,SupplierC,38.81
+Clopidogrel,SKU_25,463,250,129,40,SupplierA,32.73
+Warfarin,SKU_26,67,98,75,86,SupplierB,13.94
+Apixaban,SKU_27,474,177,287,20,SupplierC,11.41
+Rivaroxaban,SKU_28,73,0,196,78,SupplierB,7.41
+Ventolin,SKU_29,391,88,216,66,SupplierA,12.86
+Budesonide,SKU_30,353,112,98,37,SupplierB,8.73
+Prednisone,SKU_31,447,282,284,52,SupplierA,31.24
+Doxycycline,SKU_32,452,115,229,34,SupplierB,30.34
+Azithromycin,SKU_33,365,31,108,43,SupplierA,29.72
+Cephalexin,SKU_34,398,261,163,55,SupplierA,32.45
+Furosemide,SKU_35,327,40,115,79,SupplierB,40.92
+Spironolactone,SKU_36,79,166,70,53,SupplierC,45.76
+Naproxen,SKU_37,192,220,213,70,SupplierC,12.29
+Diclofenac,SKU_38,326,213,52,59,SupplierB,29.8
+Meloxicam,SKU_39,459,130,84,41,SupplierC,4.84
+Ketorolac,SKU_40,405,47,75,35,SupplierC,6.89
+Morphine,SKU_41,61,133,266,61,SupplierA,33.06
+Oxycodone,SKU_42,440,6,247,35,SupplierB,24.84
+Hydromorphone,SKU_43,252,43,285,24,SupplierC,38.16
+Tramadol,SKU_44,299,85,78,25,SupplierC,21.86
+Codeine,SKU_45,152,47,106,61,SupplierC,7.25
+Ondansetron,SKU_46,84,239,81,49,SupplierB,43.73
+Divalproex,SKU_47,373,151,201,51,SupplierC,5.06
+Quetiapine,SKU_48,435,257,229,72,SupplierC,10.26
+Olanzapine,SKU_49,69,43,226,38,SupplierC,14.57
+Aripiprazole,SKU_50,96,167,19,70,SupplierA,49.77
+Insulin Aspart,SKU_51,133,274,267,47,SupplierB,21.43
+Insulin Lispro,SKU_52,317,190,177,66,SupplierC,25.58
+Fluticasone,SKU_53,102,151,139,91,SupplierA,38.72
+Montelukast,SKU_54,322,49,79,20,SupplierB,32.18
+Cetirizine,SKU_55,67,275,181,87,SupplierA,42.23
+Loratadine,SKU_56,153,94,73,76,SupplierA,24.84
+Diphenhydramine,SKU_57,201,241,146,41,SupplierB,48.64
+Terbinafine,SKU_58,377,104,232,77,SupplierC,40.04
+Clotrimazole,SKU_59,214,259,141,32,SupplierC,20.67
+Mupirocin,SKU_60,410,137,149,58,SupplierA,19.68
+Erythromycin,SKU_61,463,182,131,46,SupplierB,46.55
+Salbutamol,SKU_62,133,56,238,58,SupplierB,34.54
+Bupropion,SKU_63,357,239,161,91,SupplierC,31.45
+Trazodone,SKU_64,200,104,249,31,SupplierA,38.13
+Zopiclone,SKU_65,86,64,127,43,SupplierC,28.48
+Diazepam,SKU_66,428,139,273,37,SupplierB,8.8
+Lorazepam,SKU_67,402,61,81,34,SupplierB,16.64
+Alprazolam,SKU_68,201,151,231,79,SupplierC,28.34
+Buspirone,SKU_69,405,129,30,35,SupplierC,1.89
+Amitriptyline,SKU_70,425,125,233,93,SupplierB,22.43
+Nortriptyline,SKU_71,257,211,83,66,SupplierA,38.03
+Valacyclovir,SKU_72,99,161,41,43,SupplierB,9.05
+Acyclovir,SKU_73,269,204,201,64,SupplierA,4.16
+Nitrofurantoin,SKU_74,453,28,250,38,SupplierC,41.97
+Folic Acid,SKU_75,96,181,84,60,SupplierC,31.25
+Cyanocobalamin,SKU_76,67,50,182,50,SupplierA,9.65
+Ferrous Sulfate,SKU_77,171,234,265,35,SupplierB,40.51
+Cholecalciferol,SKU_78,331,13,70,42,SupplierB,33.25
+Calcium Carbonate,SKU_79,169,57,21,97,SupplierA,17.37
+Magnesium Oxide,SKU_80,300,136,75,42,SupplierA,19.43
+Potassium Chloride,SKU_81,376,127,268,60,SupplierA,8.64
+Rosuvastatin,SKU_82,348,36,167,37,SupplierA,41.93
+Ezetimibe,SKU_83,96,267,239,55,SupplierB,25.94
+Insulin Detemir,SKU_84,134,84,50,31,SupplierC,28.29
+Insulin NPH,SKU_85,348,209,82,94,SupplierB,44.29
+Salicylic Acid,SKU_86,433,138,89,88,SupplierA,1.78
+Isotretinoin,SKU_87,209,26,12,70,SupplierB,4.28
+Tretinoin,SKU_88,56,232,156,51,SupplierA,8.92
+Baclofen,SKU_89,294,170,198,90,SupplierA,2.47
+Cyclobenzaprine,SKU_90,264,177,153,55,SupplierA,33.25
+Methocarbamol,SKU_91,261,19,197,59,SupplierA,32.06
+Acetazolamide,SKU_92,261,263,223,89,SupplierB,11.33
+Allopurinol,SKU_93,337,196,117,57,SupplierA,8.32
+Colchicine,SKU_94,267,63,150,73,SupplierB,8.14
+Famotidine,SKU_95,300,43,243,23,SupplierB,47.71
+Acetaminophen,SKU_96,393,243,74,65,SupplierC,34.98
+Ibuprofen,SKU_97,370,11,212,82,SupplierB,29.69
+Amoxicillin,SKU_98,363,259,274,93,SupplierC,16.8
+Ciprofloxacin,SKU_99,230,295,243,69,SupplierC,22.22
+Atorvastatin,SKU_100,141,256,177,49,SupplierC,5.38
+Simvastatin,SKU_101,267,234,107,92,SupplierB,49.91
+Metformin,SKU_102,339,246,290,35,SupplierC,38.0
+Lisinopril,SKU_103,139,140,176,71,SupplierA,31.45
+Losartan,SKU_104,246,180,173,23,SupplierB,29.8
+Amlodipine,SKU_105,233,152,92,45,SupplierA,25.71
+Hydrochlorothiazide,SKU_106,115,43,99,48,SupplierB,13.61
+Omeprazole,SKU_107,465,108,180,30,SupplierC,12.09
+Pantoprazole,SKU_108,147,97,158,43,SupplierC,27.93
+Ranitidine,SKU_109,355,226,95,70,SupplierB,4.44
+Sertraline,SKU_110,73,80,231,61,SupplierC,4.65
+Fluoxetine,SKU_111,269,217,250,58,SupplierA,28.48
+Citalopram,SKU_112,223,148,66,26,SupplierA,46.07
+Escitalopram,SKU_113,436,75,236,37,SupplierC,45.8
+Gabapentin,SKU_114,294,79,18,22,SupplierB,1.53
+Pregabalin,SKU_115,163,51,286,82,SupplierB,6.26
+Levothyroxine,SKU_116,315,62,287,39,SupplierA,29.57
+Insulin Glargine,SKU_117,439,83,206,92,SupplierC,42.58
+Metoprolol,SKU_118,403,254,102,93,SupplierC,47.77
+Propranolol,SKU_119,272,58,158,89,SupplierA,43.17
+Clopidogrel,SKU_120,357,7,194,36,SupplierB,34.2
+Warfarin,SKU_121,284,75,50,98,SupplierC,10.83
+Apixaban,SKU_122,355,77,223,78,SupplierB,4.56
+Rivaroxaban,SKU_123,159,123,201,73,SupplierB,3.33
+Ventolin,SKU_124,363,11,91,32,SupplierA,30.99
+Budesonide,SKU_125,485,279,154,61,SupplierB,2.77
+Prednisone,SKU_126,62,44,175,63,SupplierA,37.22
+Doxycycline,SKU_127,174,52,109,99,SupplierC,35.91
+Azithromycin,SKU_128,364,180,298,86,SupplierB,4.9
+Cephalexin,SKU_129,216,233,222,91,SupplierA,45.42
+Furosemide,SKU_130,102,185,178,39,SupplierA,26.57
+Spironolactone,SKU_131,235,292,225,66,SupplierB,45.32
+Naproxen,SKU_132,325,74,74,43,SupplierA,45.18
+Diclofenac,SKU_133,496,197,70,70,SupplierC,10.65
+Meloxicam,SKU_134,401,78,208,37,SupplierB,19.65
+Ketorolac,SKU_135,59,232,102,42,SupplierC,7.6
+Morphine,SKU_136,459,167,40,20,SupplierA,38.97
+Oxycodone,SKU_137,196,22,279,85,SupplierC,25.7
+Hydromorphone,SKU_138,366,229,29,24,SupplierA,46.51
+Tramadol,SKU_139,382,134,242,37,SupplierA,11.2
+Codeine,SKU_140,167,292,51,99,SupplierC,34.73
+Ondansetron,SKU_141,467,37,56,93,SupplierB,49.47
+Divalproex,SKU_142,389,231,189,54,SupplierB,33.6
+Quetiapine,SKU_143,477,167,78,44,SupplierB,4.37
+Olanzapine,SKU_144,67,284,195,43,SupplierC,29.83
+Aripiprazole,SKU_145,426,102,196,32,SupplierC,9.81
+Insulin Aspart,SKU_146,275,144,30,40,SupplierC,2.49
+Insulin Lispro,SKU_147,161,242,29,58,SupplierC,17.41
+Fluticasone,SKU_148,121,147,112,53,SupplierB,14.04
+Montelukast,SKU_149,193,152,137,38,SupplierB,39.65
+Cetirizine,SKU_150,153,294,221,47,SupplierA,19.31
+Loratadine,SKU_151,264,125,171,30,SupplierC,36.91
+Diphenhydramine,SKU_152,126,191,154,68,SupplierB,1.8
+Terbinafine,SKU_153,75,82,275,54,SupplierB,1.73
+Clotrimazole,SKU_154,279,20,219,95,SupplierB,2.44
+Mupirocin,SKU_155,242,287,275,76,SupplierB,11.75
+Erythromycin,SKU_156,499,283,11,47,SupplierB,19.33
+Salbutamol,SKU_157,152,267,84,85,SupplierB,30.78
+Bupropion,SKU_158,254,120,221,84,SupplierC,49.31
+Trazodone,SKU_159,460,110,48,92,SupplierA,18.37
+Zopiclone,SKU_160,309,78,179,41,SupplierA,3.73
+Diazepam,SKU_161,282,84,9,70,SupplierC,10.55
+Lorazepam,SKU_162,100,79,260,28,SupplierB,44.99
+Alprazolam,SKU_163,180,150,185,90,SupplierC,35.27
+Buspirone,SKU_164,392,243,228,55,SupplierB,39.72
+Amitriptyline,SKU_165,115,217,157,73,SupplierB,7.08
+Nortriptyline,SKU_166,449,14,272,57,SupplierB,7.61
+Valacyclovir,SKU_167,251,100,20,85,SupplierB,6.5
+Acyclovir,SKU_168,333,267,15,62,SupplierB,43.0
+Nitrofurantoin,SKU_169,349,34,282,24,SupplierC,11.29
+Folic Acid,SKU_170,195,282,114,56,SupplierC,32.51
+Cyanocobalamin,SKU_171,307,124,5,77,SupplierA,26.29
+Ferrous Sulfate,SKU_172,477,223,297,82,SupplierB,27.68
+Cholecalciferol,SKU_173,453,160,258,70,SupplierC,10.58
+Calcium Carbonate,SKU_174,361,12,39,91,SupplierC,32.13
+Magnesium Oxide,SKU_175,425,164,275,62,SupplierB,3.11
+Potassium Chloride,SKU_176,153,257,231,86,SupplierB,49.68
+Rosuvastatin,SKU_177,200,292,6,86,SupplierC,2.31
+Ezetimibe,SKU_178,167,113,92,84,SupplierB,3.46
+Insulin Detemir,SKU_179,365,119,20,81,SupplierC,16.91
+Insulin NPH,SKU_180,248,68,10,82,SupplierA,41.75
+Salicylic Acid,SKU_181,478,273,49,49,SupplierB,13.6
+Isotretinoin,SKU_182,352,47,264,57,SupplierA,24.12
+Tretinoin,SKU_183,383,57,44,70,SupplierA,1.88
+Baclofen,SKU_184,470,77,284,57,SupplierA,4.87
+Cyclobenzaprine,SKU_185,441,203,270,86,SupplierB,30.79
+Methocarbamol,SKU_186,438,224,274,96,SupplierA,10.52
+Acetazolamide,SKU_187,328,262,34,67,SupplierC,35.02
+Allopurinol,SKU_188,154,102,140,31,SupplierC,39.48
+Colchicine,SKU_189,59,108,143,39,SupplierB,42.67
+Famotidine,SKU_190,162,264,244,91,SupplierB,7.56
+Acetaminophen,SKU_191,76,55,192,21,SupplierA,23.32
+Ibuprofen,SKU_192,148,251,34,94,SupplierB,47.41
+Amoxicillin,SKU_193,306,299,271,74,SupplierC,38.83
+Ciprofloxacin,SKU_194,376,71,177,25,SupplierC,6.73
+Atorvastatin,SKU_195,420,140,269,81,SupplierC,25.62
+Simvastatin,SKU_196,185,179,150,68,SupplierB,46.2
+Metformin,SKU_197,444,202,98,73,SupplierC,22.56
+Lisinopril,SKU_198,275,270,28,29,SupplierB,42.03
+Losartan,SKU_199,176,109,149,43,SupplierA,25.3
+Amlodipine,SKU_200,165,81,207,48,SupplierC,6.23
