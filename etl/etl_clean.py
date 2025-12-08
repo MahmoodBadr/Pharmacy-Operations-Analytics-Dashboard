@@ -1,20 +1,15 @@
-# etl/etl_clean.py
 import os
 import pandas as pd
 from datetime import datetime
 
-# --------------------------------------------------
 # Resolve project root and data paths automatically
-# --------------------------------------------------
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "data_raw")
 CLEAN = os.path.join(RAW, "cleaned")
 
 os.makedirs(CLEAN, exist_ok=True)
 
-# --------------------------------------------------
 # Load raw CSVs
-# --------------------------------------------------
 presc = pd.read_csv(
     os.path.join(RAW, "prescriptions.csv"),
     parse_dates=["date_received", "date_filled"]
@@ -33,18 +28,14 @@ staff = pd.read_csv(
     parse_dates=["date"]
 )
 
-# --------------------------------------------------
 # Normalize drug names + join inventory information
-# --------------------------------------------------
 presc = presc.merge(
     inv[["drug_name", "SKU", "cost_per_unit"]],
     on="drug_name",
     how="left"
 )
 
-# --------------------------------------------------
 # Compute derived metrics
-# --------------------------------------------------
 presc["fill_hours"] = (
     (presc["date_filled"] - presc["date_received"])
     .dt.total_seconds() / 3600
@@ -64,9 +55,7 @@ wf["pickup_hours"] = (
     .dt.total_seconds() / 3600
 )
 
-# --------------------------------------------------
 # Save cleaned files
-# --------------------------------------------------
 presc.to_csv(os.path.join(CLEAN, "prescriptions_cleaned.csv"), index=False)
 inv.to_csv(os.path.join(CLEAN, "inventory_cleaned.csv"), index=False)
 wf.to_csv(os.path.join(CLEAN, "workflow_cleaned.csv"), index=False)
