@@ -1,0 +1,1501 @@
+drug_id,drug_name,therapeutic_class,controlled,unit_cost
+1,Lisinopril,Pain,0,56.34
+2,Gabapentin,Cardiology,0,63.18
+3,Rosuvastatin,Mental Health,0,39.82
+4,Insulin Aspart,Pain,0,86.46
+5,Rivaroxaban,Pain,1,96.49
+6,Sertraline,Diabetes,0,88.76
+7,Salbutamol,Mental Health,0,100.73
+8,Metoprolol,Cardiology,0,77.75
+9,Ibuprofen,Pain,1,101.43
+10,Gabapentin,Pain,0,23.76
+11,Metoprolol,Diabetes,0,112.7
+12,Azithromycin,Pain,0,12.54
+13,Hydrochlorothiazide,Cardiology,0,16.86
+14,Levothyroxine,Cardiology,0,59.68
+15,Lisinopril,Respiratory,0,73.74
+16,Levothyroxine,Pain,0,63.15
+17,Gabapentin,Diabetes,0,32.61
+18,Apixaban,Cardiology,0,3.04
+19,Hydrochlorothiazide,Pain,0,20.57
+20,Insulin Aspart,Mental Health,0,41.34
+21,Warfarin,Cardiology,1,48.19
+22,Insulin Glargine,Cardiology,0,104.09
+23,Metformin,Mental Health,0,21.55
+24,Metoprolol,Diabetes,0,4.19
+25,Gabapentin,Antibiotic,0,79.73
+26,Hydrochlorothiazide,Respiratory,0,102.3
+27,Lisinopril,Mental Health,0,67.59
+28,Acetaminophen,Cardiology,0,92.18
+29,Ibuprofen,Respiratory,0,85.82
+30,Metformin,Mental Health,0,99.04
+31,Rosuvastatin,Pain,1,105.47
+32,Warfarin,Mental Health,0,92.45
+33,Acetaminophen,Diabetes,0,6.13
+34,Apixaban,Antibiotic,0,15.08
+35,Hydrochlorothiazide,Respiratory,0,51.39
+36,Ibuprofen,Cardiology,0,62.16
+37,Azithromycin,Diabetes,0,58.12
+38,Amoxicillin,Mental Health,0,58.26
+39,Sertraline,Cardiology,0,109.52
+40,Escitalopram,Pain,0,10.84
+41,Metoprolol,Antibiotic,1,19.65
+42,Insulin Aspart,Mental Health,0,40.41
+43,Azithromycin,Cardiology,0,76.27
+44,Escitalopram,Antibiotic,0,108.19
+45,Acetaminophen,Pain,0,89.18
+46,Apixaban,Cardiology,0,97.81
+47,Clopidogrel,Cardiology,0,85.36
+48,Azithromycin,Diabetes,0,37.25
+49,Levothyroxine,Respiratory,0,58.67
+50,Pantoprazole,Antibiotic,0,40.19
+51,Azithromycin,Diabetes,0,89.42
+52,Metoprolol,Pain,0,65.39
+53,Apixaban,Cardiology,0,77.07
+54,Metformin,Antibiotic,0,60.87
+55,Insulin Aspart,Antibiotic,0,3.26
+56,Sertraline,Mental Health,0,61.33
+57,Insulin Glargine,Diabetes,0,68.09
+58,Pantoprazole,Pain,0,114.83
+59,Levothyroxine,Respiratory,0,72.28
+60,Amlodipine,Mental Health,0,88.38
+61,Salbutamol,Antibiotic,0,20.17
+62,Fluticasone,Antibiotic,0,7.62
+63,Metformin,Respiratory,0,28.0
+64,Insulin Aspart,Cardiology,0,70.99
+65,Hydrochlorothiazide,Respiratory,0,74.81
+66,Amoxicillin,Diabetes,1,11.31
+67,Levothyroxine,Diabetes,0,71.69
+68,Lisinopril,Respiratory,0,87.71
+69,Warfarin,Respiratory,0,23.19
+70,Salbutamol,Respiratory,0,73.07
+71,Sertraline,Mental Health,0,82.42
+72,Rosuvastatin,Respiratory,0,83.41
+73,Insulin Aspart,Pain,0,94.79
+74,Fluticasone,Pain,0,22.71
+75,Salbutamol,Respiratory,0,106.47
+76,Apixaban,Antibiotic,1,16.92
+77,Salbutamol,Antibiotic,0,68.07
+78,Amlodipine,Mental Health,0,113.82
+79,Lisinopril,Cardiology,1,89.51
+80,Azithromycin,Mental Health,0,106.15
+81,Acetaminophen,Cardiology,0,94.84
+82,Warfarin,Mental Health,0,49.52
+83,Insulin Aspart,Antibiotic,1,3.59
+84,Hydrochlorothiazide,Pain,0,4.16
+85,Azithromycin,Diabetes,0,106.61
+86,Fluticasone,Respiratory,0,72.82
+87,Amlodipine,Diabetes,0,50.37
+88,Lisinopril,Respiratory,0,6.24
+89,Apixaban,Cardiology,0,105.96
+90,Rivaroxaban,Respiratory,0,19.25
+91,Azithromycin,Mental Health,0,96.11
+92,Ibuprofen,Diabetes,0,71.18
+93,Metformin,Cardiology,0,89.47
+94,Fluticasone,Respiratory,0,34.08
+95,Rosuvastatin,Pain,0,86.25
+96,Lisinopril,Respiratory,0,56.24
+97,Metoprolol,Cardiology,1,62.91
+98,Rivaroxaban,Antibiotic,0,84.25
+99,Insulin Aspart,Pain,0,75.71
+100,Insulin Aspart,Respiratory,0,86.32
+101,Amoxicillin,Diabetes,0,16.54
+102,Escitalopram,Diabetes,0,14.62
+103,Ibuprofen,Pain,0,6.19
+104,Hydrochlorothiazide,Antibiotic,0,60.06
+105,Salbutamol,Mental Health,0,59.45
+106,Hydrochlorothiazide,Antibiotic,0,48.49
+107,Gabapentin,Mental Health,0,18.6
+108,Sertraline,Antibiotic,0,22.54
+109,Salbutamol,Cardiology,0,74.76
+110,Amlodipine,Antibiotic,0,14.51
+111,Levothyroxine,Respiratory,0,90.04
+112,Fluticasone,Mental Health,0,33.2
+113,Metformin,Respiratory,0,41.75
+114,Atorvastatin,Pain,0,16.63
+115,Insulin Aspart,Respiratory,0,103.23
+116,Warfarin,Cardiology,1,15.16
+117,Amlodipine,Pain,0,42.42
+118,Ibuprofen,Mental Health,0,19.24
+119,Acetaminophen,Respiratory,0,56.61
+120,Clopidogrel,Respiratory,0,11.64
+121,Rosuvastatin,Mental Health,0,17.8
+122,Lisinopril,Antibiotic,0,30.35
+123,Lisinopril,Mental Health,0,26.63
+124,Sertraline,Pain,0,97.23
+125,Azithromycin,Antibiotic,0,54.33
+126,Amlodipine,Diabetes,0,71.53
+127,Atorvastatin,Antibiotic,1,113.31
+128,Pantoprazole,Pain,0,42.13
+129,Rivaroxaban,Antibiotic,0,101.4
+130,Fluticasone,Diabetes,0,114.56
+131,Hydrochlorothiazide,Respiratory,0,37.76
+132,Atorvastatin,Respiratory,0,8.42
+133,Hydrochlorothiazide,Mental Health,1,102.82
+134,Pantoprazole,Respiratory,0,94.47
+135,Amlodipine,Cardiology,0,63.54
+136,Ibuprofen,Respiratory,0,16.99
+137,Rosuvastatin,Cardiology,0,90.13
+138,Escitalopram,Diabetes,0,92.28
+139,Fluticasone,Pain,1,104.15
+140,Sertraline,Cardiology,0,25.05
+141,Acetaminophen,Cardiology,0,119.59
+142,Atorvastatin,Mental Health,0,76.97
+143,Fluticasone,Pain,1,26.43
+144,Amoxicillin,Cardiology,0,7.96
+145,Levothyroxine,Diabetes,0,46.65
+146,Fluticasone,Pain,0,45.8
+147,Salbutamol,Diabetes,1,94.17
+148,Salbutamol,Pain,1,50.88
+149,Insulin Glargine,Mental Health,0,101.27
+150,Insulin Glargine,Antibiotic,0,54.68
+151,Atorvastatin,Antibiotic,0,45.9
+152,Amlodipine,Antibiotic,0,24.56
+153,Warfarin,Cardiology,0,60.94
+154,Pantoprazole,Pain,0,47.31
+155,Lisinopril,Cardiology,1,103.16
+156,Sertraline,Diabetes,0,71.58
+157,Hydrochlorothiazide,Pain,0,46.21
+158,Clopidogrel,Cardiology,0,82.75
+159,Pantoprazole,Pain,0,72.32
+160,Amlodipine,Respiratory,0,23.36
+161,Gabapentin,Antibiotic,1,112.27
+162,Insulin Aspart,Respiratory,0,28.08
+163,Apixaban,Diabetes,0,46.73
+164,Salbutamol,Respiratory,0,102.25
+165,Insulin Aspart,Respiratory,0,71.42
+166,Pantoprazole,Cardiology,0,10.81
+167,Metformin,Pain,0,33.37
+168,Insulin Glargine,Mental Health,0,9.0
+169,Warfarin,Cardiology,0,60.16
+170,Rivaroxaban,Antibiotic,0,8.88
+171,Warfarin,Mental Health,0,31.41
+172,Pantoprazole,Cardiology,0,40.64
+173,Insulin Aspart,Mental Health,0,57.57
+174,Rosuvastatin,Mental Health,0,23.3
+175,Ibuprofen,Diabetes,0,114.96
+176,Acetaminophen,Diabetes,0,30.72
+177,Azithromycin,Antibiotic,0,72.02
+178,Lisinopril,Mental Health,0,29.89
+179,Sertraline,Pain,0,54.86
+180,Insulin Glargine,Antibiotic,0,43.19
+181,Rivaroxaban,Respiratory,0,5.25
+182,Escitalopram,Cardiology,0,24.9
+183,Gabapentin,Respiratory,0,101.61
+184,Lisinopril,Mental Health,0,46.4
+185,Amoxicillin,Respiratory,0,37.71
+186,Salbutamol,Pain,0,67.81
+187,Clopidogrel,Pain,0,38.76
+188,Gabapentin,Pain,0,2.45
+189,Gabapentin,Diabetes,0,9.82
+190,Levothyroxine,Cardiology,0,7.08
+191,Rivaroxaban,Respiratory,0,41.14
+192,Salbutamol,Cardiology,0,59.37
+193,Salbutamol,Diabetes,0,16.62
+194,Gabapentin,Antibiotic,0,81.77
+195,Rosuvastatin,Antibiotic,1,13.43
+196,Hydrochlorothiazide,Antibiotic,1,38.08
+197,Metoprolol,Cardiology,0,55.07
+198,Ibuprofen,Cardiology,0,66.91
+199,Pantoprazole,Antibiotic,1,72.04
+200,Ibuprofen,Antibiotic,0,14.28
+201,Amoxicillin,Antibiotic,0,98.1
+202,Hydrochlorothiazide,Diabetes,0,43.6
+203,Azithromycin,Mental Health,0,67.23
+204,Salbutamol,Antibiotic,0,54.72
+205,Amlodipine,Pain,0,24.02
+206,Acetaminophen,Diabetes,0,90.85
+207,Amoxicillin,Cardiology,1,115.73
+208,Escitalopram,Mental Health,1,113.26
+209,Levothyroxine,Diabetes,0,96.63
+210,Lisinopril,Mental Health,0,103.27
+211,Rivaroxaban,Antibiotic,0,19.41
+212,Escitalopram,Mental Health,0,94.83
+213,Amoxicillin,Cardiology,0,51.11
+214,Apixaban,Mental Health,0,25.19
+215,Pantoprazole,Cardiology,0,79.68
+216,Insulin Aspart,Respiratory,0,67.52
+217,Apixaban,Diabetes,0,66.42
+218,Metformin,Antibiotic,0,29.39
+219,Azithromycin,Antibiotic,1,110.03
+220,Pantoprazole,Pain,1,68.92
+221,Rivaroxaban,Diabetes,0,89.86
+222,Gabapentin,Diabetes,0,21.85
+223,Gabapentin,Antibiotic,0,83.75
+224,Pantoprazole,Mental Health,0,35.24
+225,Warfarin,Antibiotic,0,12.66
+226,Warfarin,Antibiotic,0,94.68
+227,Insulin Aspart,Mental Health,0,50.06
+228,Metoprolol,Pain,0,109.83
+229,Sertraline,Diabetes,0,103.46
+230,Amlodipine,Pain,0,6.35
+231,Salbutamol,Respiratory,0,81.21
+232,Acetaminophen,Respiratory,0,60.5
+233,Sertraline,Respiratory,0,70.41
+234,Fluticasone,Respiratory,0,118.41
+235,Ibuprofen,Cardiology,0,83.35
+236,Pantoprazole,Diabetes,0,84.57
+237,Insulin Aspart,Antibiotic,0,119.25
+238,Escitalopram,Antibiotic,0,88.44
+239,Warfarin,Diabetes,1,66.04
+240,Atorvastatin,Mental Health,0,55.5
+241,Metformin,Antibiotic,0,112.73
+242,Rivaroxaban,Cardiology,1,97.78
+243,Rivaroxaban,Antibiotic,0,48.06
+244,Metoprolol,Respiratory,0,15.89
+245,Amoxicillin,Pain,0,39.78
+246,Levothyroxine,Respiratory,0,38.32
+247,Rosuvastatin,Pain,0,56.19
+248,Amlodipine,Mental Health,0,26.75
+249,Acetaminophen,Respiratory,0,55.15
+250,Fluticasone,Respiratory,0,50.53
+251,Amlodipine,Respiratory,0,16.42
+252,Metoprolol,Diabetes,0,61.69
+253,Amlodipine,Respiratory,0,96.25
+254,Fluticasone,Respiratory,0,109.3
+255,Rosuvastatin,Cardiology,0,104.16
+256,Amlodipine,Respiratory,1,45.12
+257,Apixaban,Diabetes,0,97.02
+258,Amoxicillin,Pain,0,106.09
+259,Metoprolol,Cardiology,0,89.15
+260,Atorvastatin,Cardiology,0,9.74
+261,Azithromycin,Respiratory,0,111.22
+262,Gabapentin,Cardiology,0,100.03
+263,Fluticasone,Respiratory,0,22.58
+264,Levothyroxine,Pain,0,89.83
+265,Insulin Aspart,Pain,0,66.91
+266,Metformin,Diabetes,1,106.83
+267,Insulin Aspart,Mental Health,0,63.33
+268,Hydrochlorothiazide,Cardiology,0,13.81
+269,Pantoprazole,Mental Health,0,91.48
+270,Escitalopram,Diabetes,1,65.94
+271,Rivaroxaban,Diabetes,0,10.96
+272,Amoxicillin,Cardiology,0,38.17
+273,Pantoprazole,Pain,0,108.8
+274,Gabapentin,Antibiotic,0,108.59
+275,Lisinopril,Antibiotic,1,57.06
+276,Atorvastatin,Antibiotic,1,101.9
+277,Metoprolol,Respiratory,0,48.12
+278,Apixaban,Pain,0,34.8
+279,Rivaroxaban,Cardiology,1,30.14
+280,Acetaminophen,Pain,0,92.49
+281,Insulin Aspart,Cardiology,0,37.64
+282,Acetaminophen,Cardiology,0,86.61
+283,Warfarin,Cardiology,0,67.18
+284,Gabapentin,Cardiology,1,30.46
+285,Rivaroxaban,Cardiology,0,112.27
+286,Levothyroxine,Respiratory,0,118.07
+287,Sertraline,Respiratory,0,118.33
+288,Lisinopril,Respiratory,1,99.54
+289,Pantoprazole,Antibiotic,0,43.99
+290,Acetaminophen,Respiratory,0,37.4
+291,Metoprolol,Mental Health,0,80.31
+292,Clopidogrel,Mental Health,1,66.54
+293,Clopidogrel,Respiratory,0,52.62
+294,Insulin Glargine,Diabetes,0,15.45
+295,Sertraline,Mental Health,1,44.69
+296,Apixaban,Mental Health,0,95.7
+297,Metformin,Mental Health,1,13.21
+298,Pantoprazole,Mental Health,0,6.52
+299,Clopidogrel,Antibiotic,0,11.72
+300,Amlodipine,Respiratory,1,10.25
+301,Apixaban,Mental Health,0,101.42
+302,Escitalopram,Diabetes,0,87.8
+303,Rivaroxaban,Respiratory,0,110.81
+304,Warfarin,Diabetes,0,19.61
+305,Apixaban,Cardiology,0,97.77
+306,Rivaroxaban,Diabetes,0,45.31
+307,Metoprolol,Cardiology,1,51.44
+308,Lisinopril,Pain,0,5.42
+309,Amoxicillin,Mental Health,1,9.3
+310,Hydrochlorothiazide,Pain,0,42.86
+311,Apixaban,Antibiotic,0,109.35
+312,Salbutamol,Cardiology,0,33.68
+313,Fluticasone,Diabetes,1,62.2
+314,Clopidogrel,Cardiology,0,102.22
+315,Ibuprofen,Cardiology,0,38.89
+316,Rivaroxaban,Respiratory,0,29.84
+317,Gabapentin,Mental Health,0,102.95
+318,Hydrochlorothiazide,Antibiotic,0,80.9
+319,Escitalopram,Antibiotic,1,89.97
+320,Insulin Glargine,Cardiology,0,61.96
+321,Ibuprofen,Diabetes,0,79.12
+322,Ibuprofen,Cardiology,1,58.58
+323,Escitalopram,Cardiology,0,100.6
+324,Escitalopram,Mental Health,0,112.49
+325,Lisinopril,Diabetes,0,96.85
+326,Amoxicillin,Diabetes,0,20.29
+327,Amoxicillin,Pain,0,103.66
+328,Atorvastatin,Antibiotic,0,63.4
+329,Insulin Glargine,Pain,0,111.83
+330,Atorvastatin,Mental Health,0,6.23
+331,Azithromycin,Pain,0,76.28
+332,Fluticasone,Antibiotic,0,6.54
+333,Ibuprofen,Cardiology,0,22.37
+334,Salbutamol,Cardiology,0,111.02
+335,Metformin,Cardiology,0,28.87
+336,Amlodipine,Cardiology,0,20.27
+337,Amoxicillin,Diabetes,0,84.28
+338,Sertraline,Respiratory,0,2.07
+339,Rosuvastatin,Antibiotic,0,24.25
+340,Hydrochlorothiazide,Pain,1,34.19
+341,Insulin Glargine,Diabetes,1,41.27
+342,Lisinopril,Antibiotic,0,112.98
+343,Amoxicillin,Pain,0,81.7
+344,Metoprolol,Mental Health,0,14.64
+345,Rivaroxaban,Mental Health,0,47.56
+346,Escitalopram,Antibiotic,0,69.88
+347,Fluticasone,Antibiotic,0,113.34
+348,Warfarin,Respiratory,0,60.06
+349,Hydrochlorothiazide,Antibiotic,0,34.73
+350,Metformin,Pain,0,67.95
+351,Acetaminophen,Mental Health,0,59.68
+352,Levothyroxine,Cardiology,1,29.06
+353,Atorvastatin,Diabetes,0,104.2
+354,Ibuprofen,Antibiotic,0,77.65
+355,Clopidogrel,Pain,1,85.18
+356,Pantoprazole,Respiratory,0,106.86
+357,Clopidogrel,Respiratory,1,92.9
+358,Metoprolol,Diabetes,0,7.26
+359,Sertraline,Cardiology,0,4.95
+360,Warfarin,Antibiotic,0,92.27
+361,Pantoprazole,Diabetes,0,60.69
+362,Azithromycin,Respiratory,0,18.53
+363,Levothyroxine,Respiratory,0,19.9
+364,Apixaban,Pain,0,8.85
+365,Gabapentin,Respiratory,0,73.2
+366,Rosuvastatin,Cardiology,0,15.98
+367,Clopidogrel,Antibiotic,1,14.37
+368,Acetaminophen,Respiratory,0,85.62
+369,Warfarin,Pain,0,68.89
+370,Insulin Aspart,Diabetes,0,99.19
+371,Acetaminophen,Cardiology,0,102.09
+372,Gabapentin,Diabetes,1,24.28
+373,Ibuprofen,Cardiology,1,103.34
+374,Insulin Aspart,Pain,0,105.32
+375,Insulin Glargine,Pain,0,72.68
+376,Lisinopril,Pain,0,90.03
+377,Metoprolol,Antibiotic,0,115.64
+378,Levothyroxine,Mental Health,0,101.44
+379,Pantoprazole,Mental Health,0,4.68
+380,Sertraline,Mental Health,0,26.11
+381,Sertraline,Antibiotic,0,43.31
+382,Rivaroxaban,Cardiology,0,18.12
+383,Azithromycin,Respiratory,0,66.98
+384,Amoxicillin,Antibiotic,0,104.78
+385,Insulin Glargine,Antibiotic,0,13.27
+386,Amoxicillin,Diabetes,0,21.39
+387,Atorvastatin,Diabetes,0,82.85
+388,Amlodipine,Cardiology,0,39.91
+389,Amlodipine,Diabetes,0,114.1
+390,Atorvastatin,Respiratory,0,11.97
+391,Rosuvastatin,Respiratory,0,50.35
+392,Fluticasone,Respiratory,0,108.73
+393,Levothyroxine,Respiratory,0,98.78
+394,Insulin Glargine,Diabetes,0,88.09
+395,Insulin Glargine,Cardiology,0,54.72
+396,Clopidogrel,Respiratory,0,7.76
+397,Escitalopram,Cardiology,0,2.04
+398,Warfarin,Diabetes,1,53.7
+399,Sertraline,Pain,0,73.71
+400,Rosuvastatin,Antibiotic,0,83.09
+401,Sertraline,Antibiotic,0,92.11
+402,Hydrochlorothiazide,Antibiotic,0,119.29
+403,Acetaminophen,Mental Health,0,8.25
+404,Insulin Aspart,Respiratory,0,99.59
+405,Fluticasone,Cardiology,0,42.96
+406,Rosuvastatin,Pain,0,43.33
+407,Gabapentin,Mental Health,0,33.69
+408,Apixaban,Mental Health,0,51.02
+409,Gabapentin,Pain,0,92.73
+410,Apixaban,Pain,1,100.42
+411,Rosuvastatin,Mental Health,1,55.5
+412,Rivaroxaban,Mental Health,1,9.63
+413,Insulin Aspart,Diabetes,0,72.49
+414,Rivaroxaban,Pain,0,15.39
+415,Amoxicillin,Pain,0,69.45
+416,Insulin Glargine,Mental Health,0,4.19
+417,Metoprolol,Mental Health,0,103.13
+418,Gabapentin,Mental Health,1,57.95
+419,Fluticasone,Respiratory,1,108.28
+420,Amoxicillin,Antibiotic,0,14.55
+421,Warfarin,Cardiology,0,5.45
+422,Pantoprazole,Antibiotic,0,115.06
+423,Escitalopram,Respiratory,0,91.59
+424,Warfarin,Antibiotic,0,32.78
+425,Hydrochlorothiazide,Antibiotic,0,33.32
+426,Amlodipine,Mental Health,0,60.49
+427,Amoxicillin,Mental Health,0,38.19
+428,Metoprolol,Diabetes,1,63.0
+429,Insulin Aspart,Diabetes,0,32.78
+430,Clopidogrel,Cardiology,0,5.9
+431,Hydrochlorothiazide,Cardiology,0,97.93
+432,Clopidogrel,Antibiotic,0,55.63
+433,Acetaminophen,Diabetes,0,52.71
+434,Clopidogrel,Pain,0,32.81
+435,Metoprolol,Antibiotic,0,53.13
+436,Gabapentin,Cardiology,0,4.06
+437,Rivaroxaban,Mental Health,0,33.99
+438,Metoprolol,Pain,0,71.5
+439,Amoxicillin,Pain,1,7.9
+440,Fluticasone,Pain,0,99.15
+441,Warfarin,Pain,1,78.36
+442,Insulin Glargine,Pain,0,111.69
+443,Hydrochlorothiazide,Diabetes,1,70.65
+444,Azithromycin,Mental Health,1,36.87
+445,Pantoprazole,Antibiotic,0,109.84
+446,Gabapentin,Pain,0,118.02
+447,Acetaminophen,Pain,0,107.93
+448,Rivaroxaban,Respiratory,0,68.31
+449,Amlodipine,Diabetes,0,61.6
+450,Lisinopril,Antibiotic,0,50.28
+451,Salbutamol,Mental Health,0,83.36
+452,Levothyroxine,Cardiology,0,15.78
+453,Insulin Aspart,Mental Health,0,64.11
+454,Rosuvastatin,Cardiology,0,94.96
+455,Fluticasone,Pain,0,98.27
+456,Metformin,Pain,0,117.67
+457,Fluticasone,Diabetes,0,44.47
+458,Acetaminophen,Mental Health,1,79.12
+459,Insulin Glargine,Antibiotic,0,48.93
+460,Ibuprofen,Mental Health,0,98.32
+461,Metoprolol,Diabetes,0,78.01
+462,Pantoprazole,Respiratory,0,56.92
+463,Metformin,Respiratory,0,32.02
+464,Clopidogrel,Diabetes,0,76.15
+465,Amoxicillin,Diabetes,0,88.9
+466,Fluticasone,Respiratory,0,114.36
+467,Metformin,Pain,0,110.22
+468,Gabapentin,Antibiotic,0,20.48
+469,Insulin Aspart,Antibiotic,0,66.48
+470,Hydrochlorothiazide,Antibiotic,0,18.79
+471,Rivaroxaban,Cardiology,0,40.86
+472,Metformin,Antibiotic,0,118.56
+473,Salbutamol,Cardiology,0,65.45
+474,Rosuvastatin,Respiratory,0,49.92
+475,Salbutamol,Pain,0,25.79
+476,Pantoprazole,Antibiotic,0,77.85
+477,Insulin Aspart,Diabetes,0,85.45
+478,Sertraline,Cardiology,0,12.06
+479,Metoprolol,Mental Health,0,73.55
+480,Apixaban,Diabetes,0,103.27
+481,Pantoprazole,Diabetes,0,5.64
+482,Hydrochlorothiazide,Pain,1,86.51
+483,Clopidogrel,Mental Health,0,50.36
+484,Salbutamol,Diabetes,0,92.36
+485,Levothyroxine,Antibiotic,0,61.37
+486,Hydrochlorothiazide,Diabetes,0,26.97
+487,Atorvastatin,Respiratory,0,62.95
+488,Warfarin,Cardiology,0,29.26
+489,Rivaroxaban,Cardiology,0,83.96
+490,Ibuprofen,Mental Health,0,46.24
+491,Ibuprofen,Pain,0,49.84
+492,Amoxicillin,Respiratory,0,38.5
+493,Gabapentin,Cardiology,0,81.38
+494,Amoxicillin,Diabetes,0,54.96
+495,Salbutamol,Diabetes,1,105.44
+496,Acetaminophen,Mental Health,0,49.13
+497,Warfarin,Antibiotic,0,24.88
+498,Escitalopram,Pain,0,95.46
+499,Pantoprazole,Cardiology,0,63.36
+500,Gabapentin,Respiratory,0,84.93
+501,Clopidogrel,Respiratory,0,90.04
+502,Insulin Glargine,Mental Health,0,108.75
+503,Insulin Glargine,Antibiotic,0,59.4
+504,Fluticasone,Mental Health,0,8.53
+505,Hydrochlorothiazide,Cardiology,0,109.05
+506,Lisinopril,Diabetes,0,14.33
+507,Fluticasone,Mental Health,1,111.11
+508,Sertraline,Diabetes,0,58.92
+509,Amoxicillin,Antibiotic,0,2.97
+510,Clopidogrel,Diabetes,0,13.0
+511,Ibuprofen,Mental Health,0,83.62
+512,Gabapentin,Pain,0,16.38
+513,Azithromycin,Diabetes,0,43.68
+514,Atorvastatin,Mental Health,0,98.31
+515,Insulin Aspart,Diabetes,0,71.76
+516,Insulin Aspart,Cardiology,1,101.03
+517,Escitalopram,Mental Health,0,85.43
+518,Ibuprofen,Respiratory,1,104.91
+519,Rosuvastatin,Diabetes,0,37.04
+520,Rosuvastatin,Antibiotic,0,76.48
+521,Sertraline,Respiratory,1,89.03
+522,Insulin Glargine,Cardiology,0,117.28
+523,Azithromycin,Respiratory,1,35.97
+524,Sertraline,Pain,0,43.37
+525,Atorvastatin,Cardiology,0,104.82
+526,Metoprolol,Antibiotic,0,102.88
+527,Rivaroxaban,Mental Health,0,37.36
+528,Metoprolol,Antibiotic,0,58.63
+529,Acetaminophen,Mental Health,0,63.3
+530,Fluticasone,Antibiotic,0,118.97
+531,Apixaban,Antibiotic,0,32.93
+532,Hydrochlorothiazide,Antibiotic,0,59.65
+533,Amoxicillin,Respiratory,0,27.15
+534,Pantoprazole,Mental Health,1,89.26
+535,Amlodipine,Pain,0,79.44
+536,Escitalopram,Mental Health,0,27.97
+537,Fluticasone,Cardiology,0,3.28
+538,Levothyroxine,Diabetes,0,86.13
+539,Atorvastatin,Antibiotic,0,108.45
+540,Hydrochlorothiazide,Antibiotic,0,11.49
+541,Metformin,Diabetes,0,4.46
+542,Salbutamol,Mental Health,0,21.1
+543,Hydrochlorothiazide,Mental Health,0,75.68
+544,Sertraline,Cardiology,0,54.34
+545,Rosuvastatin,Antibiotic,0,46.07
+546,Levothyroxine,Antibiotic,0,36.14
+547,Ibuprofen,Mental Health,1,90.28
+548,Rosuvastatin,Antibiotic,0,13.29
+549,Metoprolol,Pain,0,29.04
+550,Apixaban,Antibiotic,1,12.55
+551,Levothyroxine,Pain,0,81.33
+552,Clopidogrel,Diabetes,0,22.82
+553,Apixaban,Diabetes,0,116.35
+554,Insulin Aspart,Antibiotic,0,28.38
+555,Clopidogrel,Diabetes,1,6.71
+556,Salbutamol,Antibiotic,0,40.99
+557,Levothyroxine,Diabetes,0,100.31
+558,Azithromycin,Antibiotic,1,29.52
+559,Acetaminophen,Respiratory,0,101.73
+560,Metoprolol,Pain,0,88.76
+561,Apixaban,Antibiotic,0,65.44
+562,Rosuvastatin,Antibiotic,1,22.14
+563,Apixaban,Respiratory,0,26.34
+564,Insulin Glargine,Respiratory,0,106.01
+565,Warfarin,Cardiology,0,60.1
+566,Apixaban,Mental Health,0,109.5
+567,Sertraline,Antibiotic,1,29.5
+568,Levothyroxine,Antibiotic,0,101.07
+569,Salbutamol,Diabetes,0,38.83
+570,Insulin Glargine,Diabetes,0,69.32
+571,Lisinopril,Antibiotic,0,53.79
+572,Insulin Aspart,Diabetes,0,119.85
+573,Insulin Glargine,Antibiotic,0,110.65
+574,Escitalopram,Cardiology,0,74.23
+575,Ibuprofen,Antibiotic,0,34.73
+576,Salbutamol,Pain,0,105.73
+577,Ibuprofen,Cardiology,0,56.48
+578,Clopidogrel,Antibiotic,0,5.14
+579,Apixaban,Pain,0,87.6
+580,Gabapentin,Respiratory,0,14.87
+581,Rivaroxaban,Cardiology,0,52.16
+582,Insulin Aspart,Antibiotic,1,114.83
+583,Atorvastatin,Cardiology,0,36.26
+584,Amlodipine,Cardiology,0,66.45
+585,Amlodipine,Mental Health,0,12.76
+586,Metoprolol,Antibiotic,0,71.2
+587,Escitalopram,Antibiotic,1,26.92
+588,Ibuprofen,Respiratory,0,57.56
+589,Fluticasone,Diabetes,0,118.69
+590,Salbutamol,Respiratory,1,5.28
+591,Levothyroxine,Pain,0,47.56
+592,Warfarin,Cardiology,0,84.12
+593,Gabapentin,Diabetes,0,10.58
+594,Pantoprazole,Antibiotic,0,41.06
+595,Metoprolol,Cardiology,1,97.59
+596,Ibuprofen,Cardiology,0,47.16
+597,Fluticasone,Pain,0,78.48
+598,Salbutamol,Diabetes,0,110.15
+599,Escitalopram,Cardiology,0,69.72
+600,Azithromycin,Pain,0,104.41
+601,Atorvastatin,Pain,0,107.02
+602,Escitalopram,Pain,0,76.73
+603,Pantoprazole,Pain,0,30.13
+604,Metformin,Respiratory,0,83.53
+605,Azithromycin,Mental Health,0,12.1
+606,Fluticasone,Diabetes,0,76.21
+607,Escitalopram,Respiratory,1,14.76
+608,Gabapentin,Diabetes,0,7.13
+609,Rosuvastatin,Pain,1,41.95
+610,Escitalopram,Pain,0,45.06
+611,Clopidogrel,Pain,0,66.93
+612,Acetaminophen,Respiratory,0,89.29
+613,Acetaminophen,Diabetes,0,70.66
+614,Hydrochlorothiazide,Antibiotic,0,28.11
+615,Acetaminophen,Mental Health,0,32.54
+616,Sertraline,Antibiotic,0,39.43
+617,Sertraline,Cardiology,0,34.15
+618,Insulin Aspart,Pain,0,12.98
+619,Amoxicillin,Pain,0,28.88
+620,Ibuprofen,Cardiology,0,14.92
+621,Lisinopril,Antibiotic,1,107.05
+622,Hydrochlorothiazide,Respiratory,0,93.5
+623,Salbutamol,Respiratory,0,91.02
+624,Hydrochlorothiazide,Mental Health,0,59.73
+625,Insulin Aspart,Cardiology,0,97.9
+626,Amoxicillin,Cardiology,1,70.34
+627,Warfarin,Cardiology,1,77.73
+628,Rosuvastatin,Antibiotic,1,29.06
+629,Clopidogrel,Pain,1,83.52
+630,Lisinopril,Diabetes,0,58.45
+631,Hydrochlorothiazide,Cardiology,0,73.04
+632,Ibuprofen,Mental Health,0,118.59
+633,Azithromycin,Antibiotic,0,116.46
+634,Sertraline,Respiratory,0,9.14
+635,Metoprolol,Pain,0,77.1
+636,Metformin,Cardiology,0,95.6
+637,Salbutamol,Mental Health,0,5.15
+638,Ibuprofen,Pain,0,109.66
+639,Lisinopril,Antibiotic,0,114.55
+640,Rivaroxaban,Antibiotic,0,26.99
+641,Fluticasone,Pain,0,89.47
+642,Amlodipine,Respiratory,1,118.04
+643,Acetaminophen,Cardiology,0,32.03
+644,Metoprolol,Antibiotic,0,99.62
+645,Atorvastatin,Pain,0,103.76
+646,Atorvastatin,Antibiotic,0,30.96
+647,Levothyroxine,Pain,0,90.25
+648,Amlodipine,Diabetes,0,118.25
+649,Acetaminophen,Respiratory,0,114.64
+650,Amlodipine,Respiratory,0,63.65
+651,Amlodipine,Pain,0,52.52
+652,Lisinopril,Respiratory,0,105.23
+653,Azithromycin,Cardiology,0,38.13
+654,Azithromycin,Mental Health,0,7.85
+655,Metformin,Pain,0,21.72
+656,Levothyroxine,Antibiotic,1,25.17
+657,Salbutamol,Mental Health,0,92.0
+658,Amlodipine,Respiratory,1,18.33
+659,Insulin Glargine,Cardiology,0,22.59
+660,Amoxicillin,Respiratory,0,93.87
+661,Levothyroxine,Cardiology,0,4.54
+662,Sertraline,Mental Health,0,7.45
+663,Salbutamol,Antibiotic,0,48.03
+664,Azithromycin,Pain,0,80.54
+665,Metformin,Respiratory,0,99.55
+666,Lisinopril,Respiratory,0,85.62
+667,Hydrochlorothiazide,Cardiology,0,22.48
+668,Rivaroxaban,Antibiotic,1,28.17
+669,Pantoprazole,Respiratory,1,61.69
+670,Metoprolol,Antibiotic,0,76.98
+671,Rivaroxaban,Respiratory,0,24.57
+672,Acetaminophen,Mental Health,1,73.75
+673,Clopidogrel,Diabetes,0,82.18
+674,Warfarin,Cardiology,0,102.87
+675,Warfarin,Diabetes,0,37.89
+676,Escitalopram,Respiratory,0,85.64
+677,Acetaminophen,Antibiotic,0,64.66
+678,Sertraline,Antibiotic,0,46.74
+679,Rosuvastatin,Diabetes,0,68.58
+680,Metoprolol,Diabetes,0,87.2
+681,Metoprolol,Mental Health,0,31.62
+682,Metoprolol,Diabetes,0,54.59
+683,Hydrochlorothiazide,Cardiology,0,54.62
+684,Hydrochlorothiazide,Pain,1,36.85
+685,Metoprolol,Antibiotic,0,11.83
+686,Hydrochlorothiazide,Mental Health,1,117.86
+687,Salbutamol,Cardiology,0,77.81
+688,Azithromycin,Cardiology,0,107.11
+689,Insulin Glargine,Pain,1,54.97
+690,Salbutamol,Cardiology,0,115.23
+691,Gabapentin,Respiratory,0,92.59
+692,Warfarin,Diabetes,0,74.23
+693,Atorvastatin,Mental Health,0,83.37
+694,Hydrochlorothiazide,Diabetes,0,76.16
+695,Clopidogrel,Respiratory,0,12.42
+696,Hydrochlorothiazide,Antibiotic,0,24.75
+697,Hydrochlorothiazide,Respiratory,0,37.45
+698,Atorvastatin,Respiratory,0,80.03
+699,Ibuprofen,Cardiology,0,29.6
+700,Metoprolol,Diabetes,0,115.02
+701,Insulin Aspart,Diabetes,0,59.83
+702,Amoxicillin,Pain,1,17.47
+703,Salbutamol,Mental Health,0,70.13
+704,Insulin Glargine,Cardiology,0,60.86
+705,Clopidogrel,Pain,1,77.68
+706,Metformin,Pain,1,117.44
+707,Levothyroxine,Cardiology,0,25.46
+708,Azithromycin,Cardiology,1,105.36
+709,Amoxicillin,Respiratory,0,49.69
+710,Pantoprazole,Mental Health,0,77.04
+711,Insulin Glargine,Diabetes,1,10.48
+712,Acetaminophen,Cardiology,0,24.09
+713,Hydrochlorothiazide,Cardiology,0,7.15
+714,Azithromycin,Antibiotic,0,4.23
+715,Clopidogrel,Diabetes,0,83.63
+716,Gabapentin,Diabetes,0,81.38
+717,Amoxicillin,Respiratory,0,74.3
+718,Rivaroxaban,Antibiotic,0,41.16
+719,Fluticasone,Pain,0,80.34
+720,Gabapentin,Mental Health,0,31.43
+721,Clopidogrel,Respiratory,0,72.24
+722,Lisinopril,Respiratory,0,8.03
+723,Amlodipine,Pain,0,12.43
+724,Fluticasone,Antibiotic,0,10.03
+725,Ibuprofen,Diabetes,0,103.88
+726,Apixaban,Pain,0,22.75
+727,Clopidogrel,Mental Health,0,24.51
+728,Rosuvastatin,Mental Health,0,16.25
+729,Levothyroxine,Mental Health,0,101.33
+730,Rivaroxaban,Mental Health,0,111.4
+731,Salbutamol,Diabetes,0,41.88
+732,Apixaban,Cardiology,0,70.94
+733,Rosuvastatin,Antibiotic,1,117.25
+734,Insulin Glargine,Antibiotic,0,17.59
+735,Gabapentin,Mental Health,0,27.24
+736,Amoxicillin,Respiratory,0,45.63
+737,Salbutamol,Mental Health,0,26.17
+738,Insulin Aspart,Respiratory,0,14.34
+739,Atorvastatin,Pain,0,44.78
+740,Atorvastatin,Antibiotic,1,14.12
+741,Atorvastatin,Respiratory,0,99.63
+742,Lisinopril,Pain,0,66.51
+743,Salbutamol,Mental Health,0,45.34
+744,Gabapentin,Antibiotic,0,111.8
+745,Hydrochlorothiazide,Respiratory,0,73.62
+746,Apixaban,Cardiology,0,58.29
+747,Insulin Aspart,Mental Health,0,113.77
+748,Metoprolol,Cardiology,0,44.9
+749,Hydrochlorothiazide,Antibiotic,0,113.55
+750,Metformin,Diabetes,0,56.64
+751,Insulin Glargine,Respiratory,0,6.92
+752,Levothyroxine,Cardiology,0,24.41
+753,Ibuprofen,Diabetes,0,31.11
+754,Atorvastatin,Cardiology,0,100.08
+755,Escitalopram,Mental Health,0,119.68
+756,Amlodipine,Diabetes,0,113.18
+757,Amlodipine,Mental Health,0,111.6
+758,Sertraline,Respiratory,0,82.52
+759,Rivaroxaban,Cardiology,0,95.02
+760,Metformin,Cardiology,0,119.07
+761,Hydrochlorothiazide,Diabetes,0,91.1
+762,Rosuvastatin,Mental Health,1,45.4
+763,Ibuprofen,Pain,0,90.0
+764,Insulin Glargine,Mental Health,0,26.87
+765,Hydrochlorothiazide,Antibiotic,1,34.82
+766,Amlodipine,Antibiotic,0,60.46
+767,Hydrochlorothiazide,Antibiotic,0,4.97
+768,Levothyroxine,Mental Health,0,87.32
+769,Ibuprofen,Cardiology,0,42.2
+770,Metformin,Respiratory,1,35.98
+771,Atorvastatin,Mental Health,1,112.35
+772,Amoxicillin,Pain,0,110.54
+773,Hydrochlorothiazide,Cardiology,0,6.38
+774,Insulin Glargine,Respiratory,0,101.91
+775,Acetaminophen,Antibiotic,0,88.89
+776,Atorvastatin,Mental Health,0,76.39
+777,Metformin,Antibiotic,0,48.71
+778,Levothyroxine,Diabetes,0,48.68
+779,Rivaroxaban,Diabetes,0,76.08
+780,Atorvastatin,Antibiotic,1,68.9
+781,Metformin,Mental Health,0,24.35
+782,Rivaroxaban,Pain,0,77.15
+783,Rivaroxaban,Respiratory,0,11.13
+784,Rivaroxaban,Respiratory,0,30.43
+785,Apixaban,Diabetes,0,49.59
+786,Escitalopram,Respiratory,0,13.95
+787,Acetaminophen,Antibiotic,0,89.68
+788,Salbutamol,Respiratory,0,95.97
+789,Escitalopram,Mental Health,1,35.35
+790,Sertraline,Diabetes,0,13.98
+791,Metformin,Antibiotic,0,29.06
+792,Insulin Glargine,Respiratory,0,69.3
+793,Ibuprofen,Antibiotic,1,22.04
+794,Acetaminophen,Mental Health,0,53.65
+795,Hydrochlorothiazide,Diabetes,0,8.66
+796,Pantoprazole,Mental Health,1,119.4
+797,Amoxicillin,Mental Health,0,43.97
+798,Metoprolol,Diabetes,0,28.42
+799,Hydrochlorothiazide,Respiratory,0,2.7
+800,Metformin,Cardiology,0,28.19
+801,Metoprolol,Mental Health,0,58.35
+802,Metformin,Diabetes,0,80.76
+803,Levothyroxine,Pain,1,25.25
+804,Clopidogrel,Diabetes,0,113.88
+805,Hydrochlorothiazide,Antibiotic,1,27.07
+806,Clopidogrel,Diabetes,0,32.94
+807,Rivaroxaban,Mental Health,1,85.63
+808,Fluticasone,Cardiology,0,77.39
+809,Apixaban,Mental Health,0,35.87
+810,Pantoprazole,Cardiology,1,107.85
+811,Amlodipine,Antibiotic,0,58.92
+812,Lisinopril,Pain,0,54.88
+813,Escitalopram,Antibiotic,0,61.72
+814,Rivaroxaban,Cardiology,0,37.11
+815,Metoprolol,Cardiology,0,89.55
+816,Levothyroxine,Respiratory,0,32.24
+817,Lisinopril,Mental Health,0,27.1
+818,Acetaminophen,Respiratory,0,89.12
+819,Acetaminophen,Antibiotic,0,47.59
+820,Lisinopril,Respiratory,0,38.95
+821,Fluticasone,Diabetes,0,112.23
+822,Rosuvastatin,Pain,0,95.35
+823,Ibuprofen,Respiratory,1,117.14
+824,Gabapentin,Pain,0,36.34
+825,Metformin,Pain,1,4.68
+826,Metoprolol,Antibiotic,1,92.81
+827,Ibuprofen,Mental Health,0,76.58
+828,Escitalopram,Mental Health,1,43.52
+829,Ibuprofen,Cardiology,1,2.07
+830,Metoprolol,Respiratory,0,93.0
+831,Azithromycin,Cardiology,0,107.19
+832,Amlodipine,Mental Health,0,26.26
+833,Amoxicillin,Diabetes,0,32.11
+834,Apixaban,Antibiotic,0,116.62
+835,Ibuprofen,Pain,0,2.25
+836,Insulin Glargine,Diabetes,0,30.66
+837,Insulin Aspart,Diabetes,0,86.2
+838,Insulin Glargine,Diabetes,0,119.34
+839,Gabapentin,Diabetes,0,52.17
+840,Rosuvastatin,Cardiology,0,48.95
+841,Metformin,Pain,0,5.97
+842,Insulin Aspart,Pain,0,35.43
+843,Insulin Glargine,Antibiotic,0,37.38
+844,Lisinopril,Cardiology,1,67.6
+845,Insulin Aspart,Respiratory,0,63.38
+846,Gabapentin,Cardiology,0,22.62
+847,Hydrochlorothiazide,Cardiology,1,119.43
+848,Gabapentin,Antibiotic,0,32.43
+849,Amlodipine,Diabetes,0,22.19
+850,Fluticasone,Mental Health,0,85.7
+851,Salbutamol,Cardiology,0,82.34
+852,Fluticasone,Mental Health,0,93.93
+853,Amoxicillin,Antibiotic,0,35.87
+854,Pantoprazole,Antibiotic,0,118.34
+855,Metformin,Antibiotic,0,33.26
+856,Apixaban,Antibiotic,0,29.9
+857,Salbutamol,Cardiology,0,62.66
+858,Lisinopril,Antibiotic,0,85.88
+859,Rivaroxaban,Respiratory,0,11.04
+860,Hydrochlorothiazide,Pain,0,66.83
+861,Levothyroxine,Pain,1,85.71
+862,Atorvastatin,Diabetes,1,81.09
+863,Fluticasone,Respiratory,0,49.12
+864,Insulin Aspart,Diabetes,0,118.44
+865,Warfarin,Antibiotic,0,92.45
+866,Ibuprofen,Cardiology,0,50.43
+867,Sertraline,Antibiotic,0,58.64
+868,Azithromycin,Pain,1,46.87
+869,Azithromycin,Respiratory,1,57.6
+870,Clopidogrel,Diabetes,0,116.33
+871,Amlodipine,Diabetes,0,74.79
+872,Hydrochlorothiazide,Mental Health,0,5.06
+873,Amoxicillin,Pain,1,85.6
+874,Hydrochlorothiazide,Antibiotic,0,61.14
+875,Sertraline,Antibiotic,0,21.07
+876,Rivaroxaban,Antibiotic,0,58.23
+877,Azithromycin,Pain,0,68.26
+878,Rosuvastatin,Mental Health,0,95.44
+879,Escitalopram,Respiratory,0,67.04
+880,Warfarin,Mental Health,0,23.67
+881,Warfarin,Antibiotic,0,98.62
+882,Levothyroxine,Pain,0,2.58
+883,Lisinopril,Mental Health,0,106.77
+884,Metoprolol,Antibiotic,0,59.24
+885,Fluticasone,Pain,0,103.79
+886,Fluticasone,Antibiotic,0,86.19
+887,Metoprolol,Mental Health,0,96.45
+888,Fluticasone,Antibiotic,0,25.53
+889,Escitalopram,Respiratory,0,3.82
+890,Amoxicillin,Pain,0,114.64
+891,Rivaroxaban,Diabetes,0,55.7
+892,Azithromycin,Mental Health,0,96.76
+893,Apixaban,Cardiology,0,29.8
+894,Insulin Aspart,Mental Health,0,37.56
+895,Hydrochlorothiazide,Mental Health,0,22.07
+896,Escitalopram,Cardiology,0,17.18
+897,Azithromycin,Pain,0,75.2
+898,Hydrochlorothiazide,Antibiotic,0,107.06
+899,Clopidogrel,Diabetes,0,18.57
+900,Insulin Glargine,Diabetes,0,106.68
+901,Salbutamol,Cardiology,0,93.75
+902,Metoprolol,Antibiotic,0,101.94
+903,Escitalopram,Mental Health,0,63.24
+904,Acetaminophen,Mental Health,0,55.29
+905,Rivaroxaban,Respiratory,0,108.74
+906,Rivaroxaban,Respiratory,0,7.72
+907,Amlodipine,Diabetes,0,81.4
+908,Lisinopril,Mental Health,0,74.73
+909,Sertraline,Respiratory,1,73.78
+910,Metformin,Diabetes,0,89.88
+911,Sertraline,Diabetes,0,14.96
+912,Pantoprazole,Mental Health,0,36.87
+913,Sertraline,Antibiotic,1,24.47
+914,Azithromycin,Respiratory,0,82.35
+915,Sertraline,Respiratory,0,16.44
+916,Azithromycin,Pain,0,27.52
+917,Escitalopram,Pain,0,7.75
+918,Ibuprofen,Antibiotic,0,109.95
+919,Fluticasone,Antibiotic,0,73.65
+920,Insulin Aspart,Mental Health,1,69.78
+921,Sertraline,Pain,0,69.14
+922,Rosuvastatin,Cardiology,0,83.85
+923,Amoxicillin,Antibiotic,0,10.87
+924,Rivaroxaban,Mental Health,1,54.65
+925,Levothyroxine,Respiratory,0,91.72
+926,Fluticasone,Diabetes,1,50.21
+927,Gabapentin,Mental Health,0,115.57
+928,Insulin Aspart,Diabetes,0,74.68
+929,Acetaminophen,Respiratory,0,94.92
+930,Acetaminophen,Diabetes,0,73.45
+931,Lisinopril,Mental Health,0,94.34
+932,Metoprolol,Diabetes,0,31.81
+933,Levothyroxine,Antibiotic,0,96.94
+934,Metformin,Cardiology,0,113.87
+935,Azithromycin,Mental Health,0,53.67
+936,Warfarin,Mental Health,0,11.14
+937,Insulin Glargine,Diabetes,0,34.87
+938,Salbutamol,Antibiotic,0,38.23
+939,Acetaminophen,Pain,0,92.4
+940,Fluticasone,Pain,0,31.4
+941,Hydrochlorothiazide,Diabetes,0,24.55
+942,Pantoprazole,Diabetes,0,71.56
+943,Levothyroxine,Cardiology,0,54.21
+944,Amoxicillin,Diabetes,0,30.19
+945,Clopidogrel,Cardiology,1,83.61
+946,Metformin,Pain,1,96.2
+947,Clopidogrel,Antibiotic,0,68.72
+948,Insulin Glargine,Cardiology,0,48.19
+949,Acetaminophen,Mental Health,0,32.87
+950,Escitalopram,Pain,0,5.03
+951,Apixaban,Diabetes,0,20.82
+952,Metformin,Pain,0,94.28
+953,Gabapentin,Cardiology,0,55.5
+954,Amlodipine,Pain,0,111.91
+955,Levothyroxine,Pain,0,7.1
+956,Apixaban,Respiratory,1,49.01
+957,Rivaroxaban,Mental Health,0,39.5
+958,Hydrochlorothiazide,Diabetes,0,108.36
+959,Lisinopril,Antibiotic,0,112.01
+960,Amoxicillin,Antibiotic,0,8.78
+961,Metformin,Cardiology,0,68.27
+962,Metformin,Respiratory,0,22.94
+963,Ibuprofen,Diabetes,0,31.17
+964,Escitalopram,Cardiology,0,18.63
+965,Fluticasone,Antibiotic,0,10.36
+966,Hydrochlorothiazide,Antibiotic,0,87.33
+967,Warfarin,Pain,0,102.33
+968,Sertraline,Pain,0,94.06
+969,Amlodipine,Mental Health,0,99.11
+970,Metoprolol,Cardiology,0,67.08
+971,Metformin,Antibiotic,1,80.2
+972,Ibuprofen,Mental Health,0,76.11
+973,Amlodipine,Cardiology,0,88.31
+974,Hydrochlorothiazide,Antibiotic,0,81.39
+975,Amlodipine,Diabetes,0,42.69
+976,Escitalopram,Mental Health,0,24.72
+977,Fluticasone,Cardiology,1,112.07
+978,Fluticasone,Antibiotic,1,85.66
+979,Clopidogrel,Cardiology,1,91.08
+980,Escitalopram,Respiratory,1,53.02
+981,Insulin Aspart,Mental Health,0,82.7
+982,Fluticasone,Pain,0,83.54
+983,Atorvastatin,Mental Health,1,70.5
+984,Atorvastatin,Mental Health,1,119.41
+985,Levothyroxine,Mental Health,0,18.78
+986,Insulin Glargine,Cardiology,0,4.61
+987,Insulin Aspart,Mental Health,0,103.8
+988,Gabapentin,Respiratory,0,19.93
+989,Salbutamol,Pain,0,90.33
+990,Metoprolol,Respiratory,0,44.78
+991,Amlodipine,Antibiotic,0,18.84
+992,Levothyroxine,Respiratory,0,31.55
+993,Metformin,Respiratory,1,105.56
+994,Apixaban,Mental Health,0,119.65
+995,Gabapentin,Mental Health,1,45.23
+996,Hydrochlorothiazide,Pain,0,113.55
+997,Acetaminophen,Cardiology,0,24.62
+998,Fluticasone,Diabetes,1,55.85
+999,Lisinopril,Respiratory,0,55.85
+1000,Azithromycin,Cardiology,0,13.09
+1001,Sertraline,Respiratory,0,91.23
+1002,Salbutamol,Mental Health,0,6.55
+1003,Metoprolol,Mental Health,0,113.76
+1004,Warfarin,Pain,1,96.86
+1005,Azithromycin,Mental Health,0,117.49
+1006,Apixaban,Mental Health,0,39.08
+1007,Atorvastatin,Pain,0,80.86
+1008,Sertraline,Pain,0,102.21
+1009,Lisinopril,Cardiology,0,16.0
+1010,Acetaminophen,Antibiotic,0,104.23
+1011,Pantoprazole,Mental Health,1,12.02
+1012,Pantoprazole,Cardiology,0,105.28
+1013,Insulin Glargine,Respiratory,0,94.54
+1014,Rosuvastatin,Mental Health,0,28.69
+1015,Rivaroxaban,Cardiology,1,15.35
+1016,Metoprolol,Pain,1,86.76
+1017,Amlodipine,Antibiotic,0,112.79
+1018,Hydrochlorothiazide,Diabetes,0,33.72
+1019,Amoxicillin,Diabetes,0,116.75
+1020,Insulin Aspart,Pain,0,96.37
+1021,Fluticasone,Cardiology,0,76.76
+1022,Sertraline,Cardiology,0,112.5
+1023,Atorvastatin,Respiratory,1,33.03
+1024,Atorvastatin,Diabetes,0,46.53
+1025,Metformin,Diabetes,0,27.45
+1026,Pantoprazole,Diabetes,0,73.2
+1027,Escitalopram,Antibiotic,0,67.09
+1028,Sertraline,Respiratory,0,88.97
+1029,Ibuprofen,Cardiology,0,41.65
+1030,Metoprolol,Respiratory,0,65.12
+1031,Sertraline,Pain,0,105.44
+1032,Pantoprazole,Diabetes,0,99.86
+1033,Warfarin,Mental Health,0,88.01
+1034,Gabapentin,Antibiotic,0,29.2
+1035,Metformin,Pain,0,25.3
+1036,Salbutamol,Mental Health,0,66.91
+1037,Sertraline,Pain,0,84.88
+1038,Apixaban,Respiratory,0,21.85
+1039,Pantoprazole,Diabetes,0,67.28
+1040,Levothyroxine,Diabetes,0,63.99
+1041,Amlodipine,Diabetes,0,16.87
+1042,Acetaminophen,Mental Health,0,85.29
+1043,Clopidogrel,Respiratory,0,68.61
+1044,Rivaroxaban,Mental Health,1,3.19
+1045,Amoxicillin,Mental Health,0,106.43
+1046,Clopidogrel,Respiratory,0,103.91
+1047,Lisinopril,Cardiology,0,68.12
+1048,Warfarin,Diabetes,1,66.31
+1049,Escitalopram,Diabetes,1,73.72
+1050,Escitalopram,Pain,1,27.23
+1051,Hydrochlorothiazide,Mental Health,0,39.12
+1052,Lisinopril,Mental Health,0,117.59
+1053,Atorvastatin,Diabetes,1,7.85
+1054,Acetaminophen,Diabetes,0,69.01
+1055,Insulin Glargine,Pain,0,29.2
+1056,Warfarin,Diabetes,0,11.95
+1057,Insulin Glargine,Antibiotic,0,5.73
+1058,Clopidogrel,Cardiology,1,112.5
+1059,Hydrochlorothiazide,Mental Health,0,98.93
+1060,Escitalopram,Mental Health,0,87.91
+1061,Metoprolol,Pain,1,87.57
+1062,Escitalopram,Mental Health,0,79.89
+1063,Amlodipine,Respiratory,0,55.98
+1064,Insulin Aspart,Diabetes,0,31.39
+1065,Apixaban,Respiratory,0,99.79
+1066,Hydrochlorothiazide,Antibiotic,0,99.8
+1067,Warfarin,Mental Health,0,52.42
+1068,Warfarin,Cardiology,0,85.02
+1069,Lisinopril,Mental Health,1,59.61
+1070,Amlodipine,Cardiology,0,90.86
+1071,Fluticasone,Pain,1,118.48
+1072,Fluticasone,Antibiotic,0,100.37
+1073,Metoprolol,Antibiotic,0,109.92
+1074,Pantoprazole,Pain,0,35.87
+1075,Escitalopram,Mental Health,0,65.78
+1076,Metformin,Diabetes,1,37.23
+1077,Atorvastatin,Respiratory,0,6.4
+1078,Clopidogrel,Diabetes,0,94.77
+1079,Azithromycin,Antibiotic,0,43.62
+1080,Apixaban,Cardiology,0,39.92
+1081,Ibuprofen,Respiratory,1,56.41
+1082,Sertraline,Pain,0,89.03
+1083,Azithromycin,Antibiotic,1,88.34
+1084,Salbutamol,Mental Health,0,45.27
+1085,Escitalopram,Respiratory,0,67.44
+1086,Warfarin,Diabetes,0,101.2
+1087,Ibuprofen,Pain,0,28.96
+1088,Clopidogrel,Pain,0,32.72
+1089,Atorvastatin,Mental Health,0,99.53
+1090,Sertraline,Mental Health,0,3.28
+1091,Atorvastatin,Cardiology,1,99.19
+1092,Metoprolol,Antibiotic,0,70.84
+1093,Warfarin,Antibiotic,0,89.17
+1094,Acetaminophen,Diabetes,0,49.23
+1095,Amoxicillin,Diabetes,0,22.68
+1096,Metformin,Respiratory,1,19.65
+1097,Hydrochlorothiazide,Pain,0,21.85
+1098,Metoprolol,Cardiology,0,119.06
+1099,Rivaroxaban,Pain,0,84.43
+1100,Lisinopril,Diabetes,0,15.47
+1101,Amoxicillin,Respiratory,0,117.5
+1102,Escitalopram,Diabetes,0,27.24
+1103,Insulin Aspart,Mental Health,0,24.84
+1104,Lisinopril,Diabetes,0,113.21
+1105,Ibuprofen,Mental Health,1,9.82
+1106,Azithromycin,Pain,0,17.32
+1107,Escitalopram,Antibiotic,0,4.46
+1108,Escitalopram,Diabetes,1,26.29
+1109,Ibuprofen,Pain,0,114.46
+1110,Sertraline,Respiratory,0,113.5
+1111,Pantoprazole,Mental Health,0,82.24
+1112,Metoprolol,Mental Health,0,83.63
+1113,Acetaminophen,Respiratory,0,16.87
+1114,Levothyroxine,Respiratory,0,48.87
+1115,Amlodipine,Diabetes,0,34.39
+1116,Metformin,Mental Health,0,30.98
+1117,Salbutamol,Diabetes,0,91.27
+1118,Levothyroxine,Respiratory,0,97.4
+1119,Hydrochlorothiazide,Mental Health,0,99.94
+1120,Hydrochlorothiazide,Mental Health,0,73.18
+1121,Acetaminophen,Respiratory,0,7.67
+1122,Escitalopram,Mental Health,0,94.31
+1123,Pantoprazole,Cardiology,0,26.14
+1124,Metoprolol,Mental Health,0,96.54
+1125,Rosuvastatin,Cardiology,0,76.72
+1126,Metoprolol,Cardiology,0,57.81
+1127,Salbutamol,Respiratory,0,114.51
+1128,Apixaban,Pain,0,105.69
+1129,Atorvastatin,Pain,0,51.62
+1130,Azithromycin,Pain,0,81.8
+1131,Insulin Glargine,Respiratory,0,42.41
+1132,Lisinopril,Antibiotic,0,56.6
+1133,Metformin,Antibiotic,0,94.5
+1134,Amoxicillin,Respiratory,0,21.58
+1135,Metoprolol,Antibiotic,0,46.3
+1136,Ibuprofen,Cardiology,0,70.81
+1137,Atorvastatin,Pain,0,13.83
+1138,Escitalopram,Mental Health,1,38.63
+1139,Lisinopril,Cardiology,0,49.17
+1140,Hydrochlorothiazide,Cardiology,0,53.48
+1141,Sertraline,Antibiotic,0,42.11
+1142,Salbutamol,Mental Health,1,23.66
+1143,Clopidogrel,Respiratory,1,52.56
+1144,Insulin Aspart,Mental Health,1,100.92
+1145,Apixaban,Cardiology,0,86.46
+1146,Clopidogrel,Antibiotic,0,56.75
+1147,Azithromycin,Diabetes,0,65.54
+1148,Azithromycin,Diabetes,0,32.14
+1149,Warfarin,Respiratory,0,104.34
+1150,Hydrochlorothiazide,Antibiotic,0,43.8
+1151,Ibuprofen,Respiratory,0,72.58
+1152,Fluticasone,Cardiology,0,69.84
+1153,Insulin Glargine,Respiratory,0,38.84
+1154,Atorvastatin,Respiratory,0,109.2
+1155,Rosuvastatin,Pain,0,118.0
+1156,Sertraline,Respiratory,1,43.04
+1157,Amlodipine,Mental Health,0,46.96
+1158,Azithromycin,Cardiology,0,69.27
+1159,Gabapentin,Diabetes,0,6.57
+1160,Sertraline,Antibiotic,1,82.6
+1161,Fluticasone,Cardiology,0,106.54
+1162,Escitalopram,Mental Health,1,80.79
+1163,Salbutamol,Mental Health,1,111.88
+1164,Fluticasone,Diabetes,0,18.65
+1165,Insulin Glargine,Pain,0,35.26
+1166,Fluticasone,Cardiology,0,49.67
+1167,Insulin Aspart,Mental Health,1,59.71
+1168,Sertraline,Cardiology,1,29.23
+1169,Apixaban,Respiratory,1,87.44
+1170,Clopidogrel,Antibiotic,0,107.89
+1171,Levothyroxine,Antibiotic,0,96.96
+1172,Apixaban,Respiratory,0,106.52
+1173,Azithromycin,Mental Health,0,39.86
+1174,Lisinopril,Diabetes,0,28.02
+1175,Acetaminophen,Cardiology,0,111.46
+1176,Pantoprazole,Diabetes,0,85.27
+1177,Sertraline,Cardiology,0,66.39
+1178,Rosuvastatin,Pain,1,60.25
+1179,Ibuprofen,Respiratory,0,101.4
+1180,Warfarin,Antibiotic,0,29.9
+1181,Azithromycin,Pain,1,81.25
+1182,Hydrochlorothiazide,Antibiotic,0,75.7
+1183,Apixaban,Mental Health,0,56.46
+1184,Amoxicillin,Cardiology,0,46.82
+1185,Amlodipine,Antibiotic,0,103.38
+1186,Pantoprazole,Diabetes,0,54.57
+1187,Gabapentin,Respiratory,0,103.87
+1188,Warfarin,Diabetes,0,5.18
+1189,Atorvastatin,Mental Health,0,78.35
+1190,Levothyroxine,Pain,0,15.12
+1191,Amlodipine,Pain,0,12.01
+1192,Warfarin,Pain,0,33.37
+1193,Atorvastatin,Respiratory,0,12.52
+1194,Ibuprofen,Antibiotic,0,58.74
+1195,Apixaban,Respiratory,0,99.74
+1196,Insulin Aspart,Mental Health,0,32.99
+1197,Sertraline,Cardiology,0,24.84
+1198,Acetaminophen,Cardiology,0,30.54
+1199,Insulin Glargine,Mental Health,1,61.84
+1200,Insulin Glargine,Respiratory,0,12.98
+1201,Metoprolol,Respiratory,0,29.54
+1202,Fluticasone,Respiratory,0,119.53
+1203,Ibuprofen,Pain,0,66.97
+1204,Azithromycin,Pain,0,118.31
+1205,Apixaban,Antibiotic,0,46.16
+1206,Amoxicillin,Antibiotic,1,98.59
+1207,Metformin,Cardiology,0,22.35
+1208,Fluticasone,Cardiology,0,9.62
+1209,Metoprolol,Diabetes,0,22.56
+1210,Levothyroxine,Pain,0,8.45
+1211,Insulin Glargine,Mental Health,0,21.67
+1212,Levothyroxine,Mental Health,0,76.94
+1213,Clopidogrel,Mental Health,0,83.59
+1214,Azithromycin,Mental Health,0,21.89
+1215,Gabapentin,Respiratory,0,8.92
+1216,Sertraline,Mental Health,0,54.37
+1217,Salbutamol,Mental Health,0,53.24
+1218,Levothyroxine,Respiratory,0,76.12
+1219,Salbutamol,Respiratory,0,101.52
+1220,Insulin Aspart,Mental Health,0,47.66
+1221,Sertraline,Antibiotic,0,114.48
+1222,Rivaroxaban,Respiratory,0,51.96
+1223,Lisinopril,Pain,0,88.33
+1224,Fluticasone,Respiratory,0,118.15
+1225,Insulin Aspart,Antibiotic,0,14.84
+1226,Insulin Glargine,Mental Health,0,36.5
+1227,Pantoprazole,Diabetes,0,115.02
+1228,Insulin Aspart,Respiratory,1,117.65
+1229,Gabapentin,Pain,0,24.61
+1230,Clopidogrel,Diabetes,0,38.04
+1231,Salbutamol,Pain,0,59.8
+1232,Amoxicillin,Mental Health,0,87.47
+1233,Fluticasone,Respiratory,0,88.78
+1234,Fluticasone,Diabetes,0,85.69
+1235,Pantoprazole,Pain,0,80.16
+1236,Rivaroxaban,Respiratory,0,76.53
+1237,Escitalopram,Cardiology,0,96.6
+1238,Ibuprofen,Cardiology,0,105.8
+1239,Metformin,Respiratory,1,57.03
+1240,Clopidogrel,Antibiotic,1,16.89
+1241,Lisinopril,Cardiology,0,48.19
+1242,Fluticasone,Respiratory,0,103.36
+1243,Rivaroxaban,Cardiology,0,69.09
+1244,Rosuvastatin,Respiratory,0,9.45
+1245,Escitalopram,Antibiotic,0,12.52
+1246,Salbutamol,Respiratory,0,5.63
+1247,Levothyroxine,Mental Health,0,9.69
+1248,Insulin Glargine,Mental Health,0,54.92
+1249,Gabapentin,Cardiology,0,105.84
+1250,Warfarin,Mental Health,0,15.8
+1251,Fluticasone,Respiratory,0,26.39
+1252,Metformin,Pain,0,77.62
+1253,Pantoprazole,Respiratory,0,49.46
+1254,Levothyroxine,Diabetes,0,116.89
+1255,Ibuprofen,Antibiotic,0,114.49
+1256,Insulin Aspart,Diabetes,1,7.54
+1257,Salbutamol,Pain,0,50.49
+1258,Lisinopril,Cardiology,0,96.05
+1259,Ibuprofen,Cardiology,1,11.41
+1260,Insulin Glargine,Respiratory,0,70.46
+1261,Pantoprazole,Antibiotic,1,5.29
+1262,Rosuvastatin,Antibiotic,0,8.34
+1263,Metformin,Diabetes,0,73.41
+1264,Sertraline,Antibiotic,0,104.68
+1265,Amoxicillin,Cardiology,0,77.0
+1266,Ibuprofen,Mental Health,0,92.5
+1267,Apixaban,Respiratory,0,24.21
+1268,Azithromycin,Cardiology,0,105.5
+1269,Rosuvastatin,Respiratory,0,23.64
+1270,Amlodipine,Antibiotic,0,18.97
+1271,Hydrochlorothiazide,Diabetes,0,4.27
+1272,Warfarin,Pain,0,23.84
+1273,Acetaminophen,Pain,0,19.71
+1274,Hydrochlorothiazide,Mental Health,0,59.35
+1275,Rosuvastatin,Pain,0,90.18
+1276,Rosuvastatin,Pain,0,81.1
+1277,Fluticasone,Respiratory,0,65.23
+1278,Acetaminophen,Diabetes,0,96.11
+1279,Rosuvastatin,Diabetes,0,72.68
+1280,Insulin Glargine,Pain,0,64.28
+1281,Insulin Aspart,Respiratory,0,102.22
+1282,Insulin Aspart,Antibiotic,0,63.61
+1283,Amoxicillin,Antibiotic,0,19.43
+1284,Clopidogrel,Cardiology,0,117.84
+1285,Amoxicillin,Mental Health,0,55.55
+1286,Warfarin,Mental Health,0,4.11
+1287,Fluticasone,Pain,0,66.12
+1288,Insulin Aspart,Respiratory,0,94.18
+1289,Hydrochlorothiazide,Diabetes,0,45.85
+1290,Clopidogrel,Mental Health,0,68.84
+1291,Amlodipine,Cardiology,0,7.64
+1292,Amlodipine,Mental Health,0,70.91
+1293,Warfarin,Antibiotic,0,30.14
+1294,Atorvastatin,Pain,0,100.36
+1295,Lisinopril,Diabetes,0,105.09
+1296,Apixaban,Cardiology,0,29.9
+1297,Azithromycin,Respiratory,0,94.24
+1298,Metformin,Pain,0,17.12
+1299,Escitalopram,Cardiology,1,15.61
+1300,Hydrochlorothiazide,Antibiotic,0,31.28
+1301,Metformin,Respiratory,0,89.88
+1302,Rosuvastatin,Mental Health,0,34.17
+1303,Pantoprazole,Mental Health,0,30.26
+1304,Gabapentin,Pain,0,38.72
+1305,Acetaminophen,Pain,0,64.65
+1306,Metoprolol,Diabetes,0,100.96
+1307,Levothyroxine,Antibiotic,0,103.79
+1308,Gabapentin,Cardiology,0,87.66
+1309,Sertraline,Diabetes,0,25.61
+1310,Rivaroxaban,Diabetes,0,54.62
+1311,Insulin Aspart,Pain,0,5.32
+1312,Amoxicillin,Mental Health,1,94.33
+1313,Levothyroxine,Pain,0,64.9
+1314,Acetaminophen,Cardiology,0,19.65
+1315,Sertraline,Respiratory,0,102.12
+1316,Sertraline,Respiratory,0,2.52
+1317,Warfarin,Mental Health,0,17.13
+1318,Azithromycin,Antibiotic,1,40.36
+1319,Azithromycin,Pain,0,90.49
+1320,Insulin Aspart,Pain,0,71.9
+1321,Warfarin,Cardiology,0,45.54
+1322,Apixaban,Cardiology,0,64.87
+1323,Metoprolol,Respiratory,0,52.77
+1324,Pantoprazole,Diabetes,0,11.65
+1325,Azithromycin,Antibiotic,1,25.83
+1326,Lisinopril,Diabetes,1,69.33
+1327,Escitalopram,Cardiology,0,12.82
+1328,Azithromycin,Diabetes,0,70.02
+1329,Salbutamol,Respiratory,0,58.59
+1330,Sertraline,Respiratory,0,68.0
+1331,Salbutamol,Pain,0,78.28
+1332,Metoprolol,Cardiology,0,53.34
+1333,Metformin,Cardiology,1,68.4
+1334,Pantoprazole,Mental Health,0,89.71
+1335,Acetaminophen,Antibiotic,0,64.19
+1336,Pantoprazole,Cardiology,0,14.04
+1337,Apixaban,Cardiology,0,104.53
+1338,Levothyroxine,Cardiology,1,38.2
+1339,Metformin,Respiratory,0,113.63
+1340,Levothyroxine,Diabetes,0,51.07
+1341,Levothyroxine,Diabetes,1,10.88
+1342,Lisinopril,Mental Health,0,51.57
+1343,Gabapentin,Mental Health,0,58.89
+1344,Gabapentin,Cardiology,1,55.07
+1345,Clopidogrel,Respiratory,1,76.91
+1346,Atorvastatin,Respiratory,0,14.16
+1347,Clopidogrel,Respiratory,0,116.06
+1348,Pantoprazole,Respiratory,0,45.63
+1349,Levothyroxine,Diabetes,0,104.83
+1350,Apixaban,Respiratory,0,52.42
+1351,Atorvastatin,Mental Health,0,106.99
+1352,Ibuprofen,Pain,0,113.69
+1353,Atorvastatin,Cardiology,0,60.22
+1354,Salbutamol,Pain,1,60.95
+1355,Hydrochlorothiazide,Respiratory,0,43.9
+1356,Amlodipine,Antibiotic,0,94.41
+1357,Warfarin,Mental Health,0,68.34
+1358,Gabapentin,Pain,0,92.09
+1359,Amlodipine,Diabetes,0,46.97
+1360,Apixaban,Mental Health,0,106.7
+1361,Amlodipine,Diabetes,0,92.7
+1362,Insulin Glargine,Diabetes,1,12.75
+1363,Ibuprofen,Diabetes,0,94.13
+1364,Hydrochlorothiazide,Respiratory,0,8.76
+1365,Insulin Aspart,Diabetes,0,104.39
+1366,Lisinopril,Pain,0,64.05
+1367,Warfarin,Respiratory,0,44.11
+1368,Warfarin,Diabetes,1,69.36
+1369,Insulin Glargine,Cardiology,1,67.17
+1370,Levothyroxine,Diabetes,0,19.96
+1371,Sertraline,Cardiology,0,63.47
+1372,Gabapentin,Respiratory,0,119.99
+1373,Lisinopril,Mental Health,0,29.1
+1374,Rosuvastatin,Antibiotic,0,100.83
+1375,Insulin Aspart,Respiratory,1,22.87
+1376,Gabapentin,Respiratory,1,62.76
+1377,Salbutamol,Diabetes,1,37.86
+1378,Sertraline,Mental Health,0,22.07
+1379,Insulin Glargine,Cardiology,0,39.6
+1380,Escitalopram,Diabetes,0,90.75
+1381,Warfarin,Respiratory,1,94.49
+1382,Amlodipine,Antibiotic,0,74.38
+1383,Fluticasone,Diabetes,0,97.05
+1384,Acetaminophen,Diabetes,0,103.95
+1385,Lisinopril,Mental Health,0,116.61
+1386,Insulin Aspart,Respiratory,0,48.45
+1387,Rivaroxaban,Mental Health,0,116.72
+1388,Sertraline,Mental Health,0,113.05
+1389,Gabapentin,Mental Health,0,98.68
+1390,Amlodipine,Mental Health,0,22.3
+1391,Amlodipine,Pain,0,107.78
+1392,Amoxicillin,Antibiotic,0,103.37
+1393,Rosuvastatin,Antibiotic,0,97.81
+1394,Insulin Glargine,Mental Health,0,97.33
+1395,Lisinopril,Diabetes,1,56.54
+1396,Fluticasone,Pain,0,24.66
+1397,Amlodipine,Diabetes,0,4.22
+1398,Escitalopram,Antibiotic,0,2.64
+1399,Azithromycin,Diabetes,0,95.72
+1400,Lisinopril,Respiratory,0,14.85
+1401,Insulin Aspart,Mental Health,0,12.82
+1402,Rivaroxaban,Diabetes,0,89.31
+1403,Metoprolol,Respiratory,0,97.27
+1404,Lisinopril,Mental Health,0,55.69
+1405,Rosuvastatin,Diabetes,0,88.91
+1406,Apixaban,Cardiology,0,74.81
+1407,Atorvastatin,Cardiology,1,100.82
+1408,Insulin Aspart,Diabetes,0,70.35
+1409,Rivaroxaban,Antibiotic,0,74.9
+1410,Clopidogrel,Diabetes,0,15.83
+1411,Azithromycin,Mental Health,0,43.83
+1412,Gabapentin,Antibiotic,1,23.94
+1413,Salbutamol,Mental Health,0,83.3
+1414,Hydrochlorothiazide,Cardiology,0,13.33
+1415,Insulin Glargine,Cardiology,0,46.23
+1416,Pantoprazole,Antibiotic,0,29.9
+1417,Atorvastatin,Pain,0,6.17
+1418,Levothyroxine,Mental Health,1,15.79
+1419,Sertraline,Respiratory,0,62.83
+1420,Salbutamol,Antibiotic,0,65.05
+1421,Amoxicillin,Pain,1,33.11
+1422,Ibuprofen,Respiratory,0,13.02
+1423,Lisinopril,Diabetes,0,11.24
+1424,Warfarin,Mental Health,0,70.72
+1425,Rosuvastatin,Cardiology,0,46.89
+1426,Levothyroxine,Antibiotic,0,3.51
+1427,Rosuvastatin,Pain,0,23.25
+1428,Pantoprazole,Pain,1,51.58
+1429,Acetaminophen,Diabetes,0,93.12
+1430,Amlodipine,Pain,0,110.45
+1431,Warfarin,Diabetes,1,59.76
+1432,Acetaminophen,Cardiology,0,73.91
+1433,Gabapentin,Respiratory,0,26.43
+1434,Fluticasone,Mental Health,1,109.68
+1435,Metoprolol,Diabetes,0,53.24
+1436,Lisinopril,Diabetes,0,80.86
+1437,Amoxicillin,Diabetes,0,98.99
+1438,Ibuprofen,Cardiology,0,53.56
+1439,Insulin Aspart,Respiratory,1,34.64
+1440,Azithromycin,Respiratory,0,86.46
+1441,Warfarin,Antibiotic,0,54.84
+1442,Ibuprofen,Pain,0,22.38
+1443,Insulin Glargine,Mental Health,0,114.35
+1444,Escitalopram,Cardiology,1,25.53
+1445,Gabapentin,Pain,1,18.09
+1446,Ibuprofen,Cardiology,1,22.3
+1447,Amoxicillin,Pain,0,68.33
+1448,Amoxicillin,Respiratory,0,24.84
+1449,Metformin,Antibiotic,0,45.46
+1450,Salbutamol,Diabetes,0,31.2
+1451,Hydrochlorothiazide,Respiratory,0,82.64
+1452,Gabapentin,Antibiotic,0,36.2
+1453,Clopidogrel,Cardiology,1,14.5
+1454,Gabapentin,Pain,0,54.58
+1455,Lisinopril,Mental Health,0,37.93
+1456,Sertraline,Mental Health,0,27.31
+1457,Metoprolol,Cardiology,0,92.87
+1458,Ibuprofen,Antibiotic,0,59.73
+1459,Warfarin,Respiratory,1,73.56
+1460,Hydrochlorothiazide,Mental Health,0,49.78
+1461,Ibuprofen,Diabetes,0,119.45
+1462,Amoxicillin,Mental Health,0,15.79
+1463,Escitalopram,Mental Health,0,2.94
+1464,Atorvastatin,Mental Health,0,57.47
+1465,Metoprolol,Respiratory,0,67.76
+1466,Acetaminophen,Pain,0,6.08
+1467,Gabapentin,Pain,1,42.7
+1468,Pantoprazole,Pain,0,68.1
+1469,Pantoprazole,Respiratory,1,60.35
+1470,Rosuvastatin,Cardiology,1,38.32
+1471,Warfarin,Antibiotic,0,96.26
+1472,Sertraline,Antibiotic,0,27.61
+1473,Amoxicillin,Mental Health,0,98.68
+1474,Lisinopril,Pain,0,44.8
+1475,Metoprolol,Diabetes,0,29.1
+1476,Insulin Glargine,Antibiotic,0,44.0
+1477,Gabapentin,Cardiology,1,68.95
+1478,Rivaroxaban,Pain,0,48.69
+1479,Rivaroxaban,Mental Health,0,91.81
+1480,Rosuvastatin,Diabetes,0,6.06
+1481,Clopidogrel,Cardiology,0,110.17
+1482,Gabapentin,Pain,0,8.22
+1483,Amoxicillin,Diabetes,0,83.76
+1484,Hydrochlorothiazide,Diabetes,0,101.93
+1485,Pantoprazole,Respiratory,0,31.36
+1486,Rosuvastatin,Antibiotic,0,85.42
+1487,Hydrochlorothiazide,Mental Health,0,42.59
+1488,Rosuvastatin,Mental Health,0,22.33
+1489,Acetaminophen,Pain,0,72.21
+1490,Salbutamol,Respiratory,0,42.28
+1491,Azithromycin,Antibiotic,0,76.16
+1492,Apixaban,Diabetes,0,60.52
+1493,Apixaban,Respiratory,0,14.95
+1494,Apixaban,Respiratory,0,104.46
+1495,Hydrochlorothiazide,Diabetes,0,19.23
+1496,Pantoprazole,Respiratory,0,67.19
+1497,Levothyroxine,Respiratory,0,84.63
+1498,Insulin Glargine,Cardiology,1,91.41
+1499,Hydrochlorothiazide,Antibiotic,0,11.51
+1500,Fluticasone,Mental Health,0,11.0
